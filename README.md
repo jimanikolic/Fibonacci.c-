@@ -1,2 +1,2 @@
-# Fibonacci.c-
+# Fibonacci.cpp
 A Fibonacci Sequence Index Calculator
